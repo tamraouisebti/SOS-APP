@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928212219148",
+    "firebase_url": "https://applied-syntax-250300.firebaseio.com",
+    "project_id": "applied-syntax-250300",
+    "storage_bucket": "applied-syntax-250300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928212219148:android:ca920d36cb0c8d44508529",
+        "android_client_info": {
+          "package_name": "com.example.sos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928212219148-7tl08f3jdtbm85h2jv68ofph1g91qtti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sos",
+            "certificate_hash": "6f72f540eac7fe5ca0e5cb9ed434f16bd7b8a0eb"
+          }
+        },
+        {
+          "client_id": "928212219148-cltlqektr8memc42ll9pcojltu37slfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFhaEgbD9qz6tJQKoeKWpdLhp542T_4LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928212219148-cltlqektr8memc42ll9pcojltu37slfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
